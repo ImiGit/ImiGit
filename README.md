@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Iman 👋</h1>
 <center>
-<h3 align="center">It Consultant @Qualitest Germany GmbH</h3>
+<h3 align="center">IT Consultant @Qualitest Germany GmbH</h3>
 </center>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImiGit" alt="ImiGit" /> </p>
 
-- 🔭 I’m currently working on improving my German 
+- 🔭 I’m currently working as **End to End tester in a project with Vodafone Germany** 
 
 - 🌱 I’m currently learning **Data Science with Python**
 
