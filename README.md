@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there, I am Iman 👋</h1>
+<center>
+<h3 align="center">It Consultant @Qualitest Germany GmbH</h3>
+</center>
 
-<!--
-**ImiGit/ImiGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/imanbabaei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Iman Babaei" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/imanbabaei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="imanbabaei" height="30" width="30" /></a>
+</p>
+<hr>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImiGit" alt="ImiGit" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my German 
+
+- 🌱 I’m currently learning **Data Science with Python**
+
+- 📫 How to reach me **iman.babaei@icloud.com**
+
+- ⚡ I love **rowing and reading novels :)**
