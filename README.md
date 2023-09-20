@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImiGit" alt="ImiGit" /> </p>
 
-- 🔭 I’m currently working as **End to End tester in a project with Vodafone Germany** 
+- 🔭 I’m currently working as **Consultant in Financial Sector in Frankfurt** 
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently learning **Data Science with Python and AWS**
 
 - 📫 How to reach me **iman.babaei@icloud.com**
 
