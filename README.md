@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Iman 👋</h1>
 <center>
-<h3 align="center">IT Consultant @Qualitest Germany GmbH</h3>
+<h3 align="center"> Consultant @ UCG United Consulting Group </h3>
 </center>
 
 <p align="center">
